@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AgroFácil",
+  "description": "Aplicativo de gestão simples para pequenos produtores rurais. Controle produção, finanças e estoque offline.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
